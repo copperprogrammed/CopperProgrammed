@@ -89,6 +89,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .search-box {
@@ -165,8 +166,8 @@ main {
 }
 
 .botom-gap {
-  position: relative;
   bottom: 0;
+  position: relative;
   width: 100%;
   text-align: center;
   text-decoration: none;
